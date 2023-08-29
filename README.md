@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KirannCode
+- 👀 I’m interested in fields that combine mechanical engineering and computer science, such as robotics, automation, and mechatronics.
+- 🌱 I’m currently learning more about AI and its applications in manufacturing.
+- 💞️ I’m looking to collaborate on projects that merge mechanical and computer science concepts for innovative solutions.
+- 📫 How to reach me: kirannhce@gmail.com
